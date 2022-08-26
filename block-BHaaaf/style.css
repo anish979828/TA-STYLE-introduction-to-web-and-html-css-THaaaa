@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    font-size: 40px;
+    color: brown;
+}
+p{
+    font-size: 25px;
+    color: aqua;
+}
+.desti{
+    color: burlywood;
+}
+#place{
+    color: coral;
+}
