@@ -1,0 +1,39 @@
+body{
+    background-color: #22396a;
+}
+h1{
+    color: white;
+}
+h2{
+    color: #31bb66;
+}
+h3{
+    color: white;
+    font-size: 20px;
+}
+h4{
+    color: white;
+    font-size: 20px;
+    }
+  h5{
+    color: white;
+    font-size: 15px;
+  } 
+  h6{
+    color: #31bb66;
+    font-size: 30px; 
+  }
+  p{
+    color: white;
+  }
+  a{
+    margin-left: 10px;
+  }
+  address{
+    font-style: normal;
+    color: white;
+  }
+
+
+    
+
